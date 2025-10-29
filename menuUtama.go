@@ -1,5 +1,6 @@
 /*
 
+// Program ini ditambahkan komentar oleh Anggita - 103032400041
 menu utama
 1. nambahin barang
 2. ngeliat data transaksi barang (ngeliat penjualan)
